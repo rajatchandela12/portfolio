@@ -35,10 +35,10 @@ In early 2018, I worked with a small, family-owned café in Sacramento, Californ
 - Reporting: Initial keyword ranking and traffic trend tracker
 
 ##  Screenshots & Assets
-- `assets/website-homepage.png`  
-- `assets/gmb-profile.png`  
-- `assets/keyword-ranking-report.png`  
-- `assets/social-post-sample.png`  
+- `/website-homepage.png`  
+- `/gmb-profile.png`  
+- `/keyword-ranking-report.png`  
+- `/social-post-sample.png`  
 
 ##  Notes
 This project laid the foundation for many future offline-to-online transformations I led, especially for solopreneurs and local brands looking for high-ROI digital growth.
