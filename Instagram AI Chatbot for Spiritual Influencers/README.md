@@ -15,6 +15,7 @@ I developed and deployed a custom **AI-powered chatbot system** for Instagram DM
 
 ##  Tools & Tech Stack
 
+- **Manychat** (Start Conversation)
 - **Make.com** (Instagram webhook + automation flows)  
 - **ChatGPT API** (intelligent response generation)  
 - **Google Sheets** (lead tracking + history)  
@@ -39,11 +40,12 @@ I developed and deployed a custom **AI-powered chatbot system** for Instagram DM
 
 ##  Visuals (to upload in `/assets/`)
 
+- `manychat-flow-diagram.png`  
 - `make-flow-diagram.png`  
 - `chat-sample-thread.png`  
 - `lead-qualification-logic.png`  
-- `chatgpt-prompt-library.png`  
-- `automation-report-summary.png`
+- `chatgpt-vector-library.png`
+- `chatgpt-prompt.txt`  
 
 ##  Notes
 
